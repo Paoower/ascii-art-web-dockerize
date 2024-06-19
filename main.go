@@ -1,7 +1,7 @@
 package main
 
 import (
-	asciiart "ascii-art-web/ascii-art"
+	asciiart "ascii-art-web-dockerize/ascii-art"
 	"log"
 	"net/http"
 	"strconv"
